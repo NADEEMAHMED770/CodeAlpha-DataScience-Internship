@@ -7,7 +7,15 @@ This project performs **Exploratory Data Analysis (EDA)** on unemployment data f
 The project demonstrates the complete data analysis workflow, including data understanding, data cleaning, feature engineering, exploratory data analysis, and correlation analysis.
 
 ---
+## Repository Contents
 
+- 📓 Jupyter Notebook
+- 📊 Data Visualization
+- 🧹 Data Cleaning
+- 📈 Exploratory Data Analysis
+- 📄 Documentation
+
+---
 ## 🎯 Objectives
 
 - Understand the structure of the unemployment dataset.
@@ -18,6 +26,18 @@ The project demonstrates the complete data analysis workflow, including data und
 - Compare Urban and Rural unemployment.
 - Study monthly unemployment trends.
 - Explore the relationship between labour participation rate and unemployment rate.
+---
+
+## Project Workflow
+
+1. Load the dataset
+2. Understand the dataset
+3. Clean the data
+4. Perform feature engineering
+5. Conduct exploratory data analysis
+6. Visualize important trends
+7. Analyze correlations
+8. Summarize findings
 
 ---
 
@@ -76,7 +96,23 @@ The project includes the following analyses:
 - The correlation coefficient (≈ 0.003) indicates almost no linear relationship between labour participation rate and unemployment rate.
 
 ---
+## Skills Demonstrated
 
+- Data Cleaning
+- Data Preprocessing
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Correlation Analysis
+- Python Programming
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+
+---
 ## 🚀 Future Improvements
 
 Possible future enhancements include:
